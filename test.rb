@@ -1,3 +1,5 @@
 a = "this is a pen! lol"
+b = " lol"
 
-print a
+print (a + b)
+
