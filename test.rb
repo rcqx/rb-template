@@ -1,5 +1,4 @@
-a = "this is a pen! lol"
-b = " lol"
+a = 'this is a pen! lol'
+b = ' lol'
 
-print (a + b)
-
+print(a + b)
