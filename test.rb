@@ -1,3 +1,4 @@
-a = "this is a pen! lol"
+a = 'Hello'
+b = ' Ruby!'
 
-print a
+print(a + b)
