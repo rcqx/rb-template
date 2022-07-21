@@ -1,4 +1,4 @@
-a = 'this is a pen! lol'
-b = ' lol'
+a = 'Hello'
+b = ' Ruby!'
 
 print(a + b)
